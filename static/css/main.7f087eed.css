@@ -1,0 +1,2 @@
+body{background-color:silver}h1,h2{text-align:center}h1{-webkit-transform:scale(1.1);transform:scale(1.1);transition:0s}ul{display:flex;flex-flow:wrap;list-style:none}.card{background-color:#444242;margin:2%;padding:2%;text-align:center;transition:.3s;width:25.33333%}.card:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}.card__name{font-size:25px;font-weight:700}.card__name span{font-size:15px}.card__total{font-size:200%;font-weight:700}
+/*# sourceMappingURL=main.7f087eed.css.map*/
